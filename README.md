@@ -17,10 +17,9 @@
 
 | №1 | Описание | Ссылка на работу |
 |----|:----------:|------------------|
-| 1  | Частотный список слов | [code](https://www.github.com/) |
-| №1 | Игра "Виселица" | [code](https://www.github.com/) |
-| №1 | Типологическая анкета об употреблении феминитивов | [code](https://www.github.com/) |
-| №1 | Тут должно быть название  | [code]() |
+| 1  | Первая работа | [code](https://github.com/linasyan/python-dh-hw/blob/master/HW1.ipynb) |
+| 2 | Вторая | [code](https://www.github.com/) |
+
 
 
 
