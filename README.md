@@ -16,10 +16,10 @@
 ![](https://pp.userapi.com/c830508/v830508067/19fa3c/TaPX-5pxvEo.jpg)
 
 
-<h2 align="center"> Здесь будут ссылки на домашние задания </h2> :soon:
+<h2 align="center"> Здесь будут ссылки на домашние задания :soon: </h2> 
 
 
-| №1 | Описание | Ссылка на работу |
+<align="center">| №1 | Описание | Ссылка на работу |
 |----|:----------:|------------------|
 | 1  | Домашняя работа 1 | [Ссылка на первую работу](https://github.com/linasyan/python-dh-hw/blob/master/HW1.ipynb) |
 | 2  | Домашняя работа 2 | [Ссылка на вторую работу](https://github.com/linasyan/python-dh-hw/blob/master/HW2.ipynb) |
